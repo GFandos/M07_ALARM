@@ -1,0 +1,14 @@
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\bin\Debug\Rellotge_M07.exe.config
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\Rellotge_M07.csprojResolveAssemblyReference.cache
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\MainWindow.g.cs
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\App.g.cs
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\Rellotge_M07_MarkupCompile.cache
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\Rellotge_M07_MarkupCompile.lref
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\bin\Debug\Rellotge_M07.exe
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\bin\Debug\Rellotge_M07.pdb
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\MainWindow.baml
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\Rellotge_M07.g.resources
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\Rellotge_M07.Properties.Resources.resources
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\Rellotge_M07.csproj.GenerateResource.Cache
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\Rellotge_M07.exe
+c:\users\47989768s\documents\visual studio 2015\Projects\Rellotge_M07\Rellotge_M07\obj\Debug\Rellotge_M07.pdb
